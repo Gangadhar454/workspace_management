@@ -1,0 +1,17 @@
+[
+    {"model": "bookings.room", "pk": 1, "fields": {"room_type": "private", "capacity": 1}},
+    {"model": "bookings.room", "pk": 2, "fields": {"room_type": "private", "capacity": 1}},
+    {"model": "bookings.room", "pk": 3, "fields": {"room_type": "private", "capacity": 1}},
+    {"model": "bookings.room", "pk": 4, "fields": {"room_type": "private", "capacity": 1}},
+    {"model": "bookings.room", "pk": 5, "fields": {"room_type": "private", "capacity": 1}},
+    {"model": "bookings.room", "pk": 6, "fields": {"room_type": "private", "capacity": 1}},
+    {"model": "bookings.room", "pk": 7, "fields": {"room_type": "private", "capacity": 1}},
+    {"model": "bookings.room", "pk": 8, "fields": {"room_type": "private", "capacity": 1}},
+    {"model": "bookings.room", "pk": 9, "fields": {"room_type": "conference", "capacity": 10}},
+    {"model": "bookings.room", "pk": 10, "fields": {"room_type": "conference", "capacity": 10}},
+    {"model": "bookings.room", "pk": 11, "fields": {"room_type": "conference", "capacity": 10}},
+    {"model": "bookings.room", "pk": 12, "fields": {"room_type": "conference", "capacity": 10}},
+    {"model": "bookings.room", "pk": 13, "fields": {"room_type": "shared", "capacity": 4}},
+    {"model": "bookings.room", "pk": 14, "fields": {"room_type": "shared", "capacity": 4}},
+    {"model": "bookings.room", "pk": 15, "fields": {"room_type": "shared", "capacity": 4}}
+]
