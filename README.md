@@ -13,7 +13,7 @@ This is a Django-based RESTful API for managing workspace room bookings, cancell
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd room_booking
+   cd workspace_management
    ```
 2. Build and run the Docker containers:
    ```bash
