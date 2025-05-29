@@ -49,4 +49,3 @@ docker-compose exec web python manage.py test
 
 ### Bonus Features
 - **Tests**: Includes unit tests for core functionality.
-- **Browsable API**: DRF provides automatic API documentation at each endpoint.
